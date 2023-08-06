@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @fr0stb1rd
-- 👀 I’m interested in cyber security
-- 📫 How to reach me fr0stb1rd@proton.me
+[![](https://img.shields.io/github/followers/fr0stb1rd?logo=github&style=flat)](#)
+[![](https://komarev.com/ghpvc/?username=fr0stb1rd)](#)
 
-<!---
-fr0stb1rd/fr0stb1rd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://github-readme-streak-stats.herokuapp.com?user=fr0stb1rd&theme=transparent&hide_border=true&locale=tr&mode=weekly)](#)
